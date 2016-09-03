@@ -191,6 +191,7 @@ def todoist_add(user, projectName, labels, assignments):
     task.date_string = str(assignment.due)
     task.labels = task.labels + labels
     task.update()
+    task.add_note(assignment.desc)
     already_imported.append(assignment.uid)
 
 
