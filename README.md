@@ -4,10 +4,10 @@
 I was sick of manually copying my assignments from Schoology to Todoist. So I made a script to do it
 for me.
 
-***DISCLAIMER:** I am not responsible if this script causes something bad for you. If your school IT
+_**DISCLAIMER:** I am not responsible if this script causes something bad for you. If your school IT
 person has something against scripts and gets you expelled for using this one, I am not responsible.
 If for some reason it drops an assignment and you turn it in late, I am not responsible. (Although
-it shouldn't do that, and I do use it myself.) You should still double-check schoology.*
+it shouldn't do that, and I do use it myself.) You should still double-check schoology._
 
 ## Usage
 
