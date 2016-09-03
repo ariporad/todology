@@ -1,0 +1,19 @@
+schoology:
+  # This is your schoology calendar feed. You can get this by going to
+  # https://yourschool.schoology.com/calendar. Then click "Export" at the bottom, then
+  # "Share Calendar". Then copy the URL below, between the quotes.
+  calendar: "webcal://yourschool.schoology.com/calendar/feed/ical/0000000000/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/ical.ics"
+todoist:
+  # This is your Todoist API Token. You can get this by going to Todoist, and doing the following:
+  # 1. Click on gear in upper-right-hand corner.
+  # 2. Click on 'Todoist Settings'
+  # 3. Click on 'Account'.
+  # 4. Copy the API Token below.
+  apiToken: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  # The project to add the tasks to. Will be created if it doesn't exist. Defaults to Inbox.
+  project: School
+  # Labels to apply to imported tasks. Will be created if they don't exist. Defaults to ['Todology']
+  labels:
+    - imported
+    - Hellwork
+
