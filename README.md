@@ -1,3 +1,5 @@
+> **Note:** Since I've graduated high school and therefore don't use Schoology anymore (nor Todoist, for that matter), I no longer have any use for Todology. I've left it here in the hope that it may be useful (or, at least, interesting) to someone, but it may very well be broken, and I won't be investing any time into fixing or maintaing it in the future. If you'd like to take up the mantle and run with it, feel free to do so--let me know and I'll add a link to your fork here.
+
 # Todology
 ### Import Schoology Assignments to Todoist
 
